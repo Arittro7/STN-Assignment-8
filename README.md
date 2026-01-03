@@ -4,7 +4,7 @@ Problem Solving:
 -Create an array of objects, each representing a person with properties like name, age, and gender. Write a function to filter out all females and then map the remaining people to an array of names. Print the final result.
 
 
-02.Task: Object Manipulation
+02.Task: Object Manipulation 
 -Create an array of objects representing books with properties like title, author, and year. Write a function that takes the array and returns a new array with only the book titles. Print the result.
 
 
